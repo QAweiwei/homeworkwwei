@@ -1,0 +1,26 @@
+{
+  "name": "homeworkwwei",
+  "version": "1.0.0",
+  "description": "homework for QA",
+  "main": "loginstory.mjs",
+  "scripts": {
+    "test": "node --experimental-modules loginstory.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QAweiwei/homeworkwwei.git"
+  },
+  "keywords": [
+    "git",
+    "js"
+  ],
+  "author": "weiwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QAweiwei/homeworkwwei/issues"
+  },
+  "homepage": "https://github.com/QAweiwei/homeworkwwei#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
